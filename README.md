@@ -14,6 +14,7 @@ npm run serve
 ```
 npm run build
 ```
+COS30043-Interface Design and Development
 
 Overview
 The purpose of this assignment is to develop a responsive web application using Vue.js 3 and
